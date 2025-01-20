@@ -10,7 +10,7 @@ cat << EOF > /etc/xray/config.json
       "port": $PORT,
       "protocol": "trojan",
       "settings": {
-        "password": "$PASSWORD"
+        "password": "chathura12345@@"
       },
       "streamSettings": {
         "network": "$NETWORK"
